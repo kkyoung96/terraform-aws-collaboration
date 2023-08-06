@@ -20,7 +20,11 @@ provider "aws" {
   default_tags {
     tags = {
       Project = "T101-Study-6week"
+<<<<<<< HEAD
       Owner = "tom"
+=======
+      Owner = "jerry"
+>>>>>>> 909be7c08344fdb27063660e58048c940b65c12d
     }
   }
 }
